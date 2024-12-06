@@ -1,0 +1,6 @@
+@FoodWayAPI_HostAddress = http://localhost:5016
+
+GET {{FoodWayAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
